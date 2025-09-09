@@ -1,7 +1,7 @@
 # Hi, I'm Kenneth 👋
 
 **Computer Engineering @ Boston University (’25)**  
-I enjoy building full-stack apps, solving systems problems, and improving user experiences. Aspire to be someone who builds products and solutions.
+I enjoy building, solving systems problems, and improving user experiences. Aspire to be someone who builds products and creates solutions.
 
 ## 🚀 Featured Projects
 - **[Rescue365](https://github.com/Rescue365-org/r365)** – Full-stack mobile app (React Native · Supabase · OAuth · PayPal).  
