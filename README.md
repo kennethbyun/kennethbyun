@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Kenneth 👋
 
-<!--
-**kennethbyun/kennethbyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Engineering @ Boston University (’25)**  
+I enjoy building full-stack apps, solving systems problems, and improving user experiences.  
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
+- **[Rescue365](https://github.com/Rescue365-org/r365)** – Full-stack mobile app (React Native · Supabase · OAuth · PayPal).  
+- **[HVAC Website](#)** – Product showcase site with SendGrid automation.  
+- **[Algorithms in C++](#)** – Data structures and algorithm practice.  
+- **[C# Game Prototype](#)** – Small Unity-based gameplay experiments.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- **Languages & Frameworks:** C++, C#, JavaScript, SQL, HTML/CSS, React Native, Node.js  
+- **Databases & APIs:** Supabase, REST APIs, PayPal Integration  
+- **Systems & Tools:** GitHub, Postman, TCP/IP, Active Directory, Jira  
+
+## 📫 Contact
+- [LinkedIn](https://www.linkedin.com/in/kenneth-byun-17031821b/)  
+- [Email](mailto:kennethbyun1@gmail.com)  
