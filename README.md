@@ -7,7 +7,7 @@ I enjoy building, solving systems problems, and improving user experiences. Aspi
 - **[Rescue365](https://github.com/Rescue365-org/r365)** – Full-stack mobile app (React Native · Supabase · OAuth · PayPal).  
 - **[HVAC Website](https://github.com/kennethbyun/HVACWebsite)** – Product showcase site with SendGrid automation.  
 - **[Small Choose Your Own Story Game in C++](https://github.com/kennethbyun/Dungeon-Run-C-Project)** – Basic C++ Structure 
-- **[C# Game Prototype](https://github.com/kennethbyun/Pokemon-Victory-Road-KennethByun)** – Small Unity-based gameplay experiments.  
+- **[C# Game Prototype](https://github.com/kennethbyun/Pokemon-Victory-Road-KennethByun)** – Small Pokemon Game using C++ Fundementals 
 
 ## 🛠 Skills
 - **Languages & Frameworks:** C++, C#, JavaScript, SQL, HTML/CSS, React Native, Node.js  
