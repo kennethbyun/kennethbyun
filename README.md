@@ -17,4 +17,4 @@ I enjoy building, solving systems problems, and improving user experiences. Aspi
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/kenneth-byun-17031821b/)  
 - [Email](mailto:kennethbyun1@gmail.com)
-- [Phone](646-267-1043)
+- [Phone]: 646-267-1043
