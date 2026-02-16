@@ -10,7 +10,7 @@ I enjoy building, solving systems problems, and improving user experiences. Aspi
 - **[C++ Pokemon Game](https://github.com/kennethbyun/Pokemon-Victory-Road-KennethByun)** – Small Pokemon Game using C++ Fundementals 
 
 ## 🛠 Skills
-- **Languages & Frameworks:** C++, C#, JavaScript, SQL, HTML/CSS, React Native, Node.js  
+- **Languages & Frameworks:** Python, C++, JavaScript, SQL, HTML/CSS, React Native, Node.js
 - **Databases & APIs:** Supabase, REST APIs, PayPal Integration  
 - **Systems & Tools:** GitHub, Postman, TCP/IP, Active Directory, Jira  
 
