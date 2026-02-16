@@ -4,8 +4,8 @@
 I enjoy building, solving systems problems, and improving user experiences. Aspire to be someone who builds products and creates solutions.
 
 ## 🚀 Featured Projects
-- **[Rescue365](https://github.com/Rescue365-org/r365)** – Full-stack mobile app (React Native · Supabase · OAuth · PayPal).  
-- **[HVAC Website](https://github.com/kennethbyun/HVACWebsite)** – Product showcase site with SendGrid automation.  
+- **[EquitiesAnalysis](https://github.com/kennethbyun/systematic-equities-analysis)** – Equities analysis using Python
+- **[Rescue365](https://github.com/Rescue365-org/r365)** – Full-stack mobile app (React Native · Supabase · OAuth · PayPal).
 - **[Small Choose Your Own Story Game in C++](https://github.com/kennethbyun/Dungeon-Run-C-Project)** – Basic C++ Structure 
 - **[C++ Pokemon Game](https://github.com/kennethbyun/Pokemon-Victory-Road-KennethByun)** – Small Pokemon Game using C++ Fundementals 
 
@@ -16,4 +16,5 @@ I enjoy building, solving systems problems, and improving user experiences. Aspi
 
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/kenneth-byun-17031821b/)  
-- [Email](mailto:kennethbyun1@gmail.com)  
+- [Email](mailto:kennethbyun1@gmail.com)
+- [Phone](646-267-1043)
