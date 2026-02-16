@@ -1,7 +1,7 @@
 # Hi, I'm Kenneth 👋
 
 **Computer Engineering @ Boston University (’25)**  
-I enjoy building, solving systems problems, and improving user experiences. Aspire to be someone who builds products and creates solutions.
+I enjoy building, solving systems problems, and improving user experiences. I build products and creates solutions.
 
 ## 🚀 Featured Projects
 - **[EquitiesAnalysis](https://github.com/kennethbyun/systematic-equities-analysis)** – Equities analysis using Python
