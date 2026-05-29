@@ -6,7 +6,7 @@ I enjoy building, solving systems problems, and improving user experiences. I bu
 ## 🚀 Featured Projects
 - **[EquitiesAnalysis](https://github.com/kennethbyun/systematic-equities-analysis)** – Equities analysis using Python
 - **[Rescue365](https://github.com/Rescue365-org/r365)** – Full-stack mobile app (React Native · Supabase · OAuth · PayPal).
-- **[Small Choose Your Own Story Game in C++](https://github.com/kennethbyun/Dungeon-Run-C-Project)** – Basic C++ Structure 
+- **[AI Automation Workflow The Cresent](https://github.com/kennethbyun/greenroom-starter/tree/settlement-ai-review)** – AI-powered workflow for identifying and reviewing high-risk business settlements.
 - **[C++ Pokemon Game](https://github.com/kennethbyun/Pokemon-Victory-Road-KennethByun)** – Small Pokemon Game using C++ Fundementals 
 
 ## 🛠 Skills
